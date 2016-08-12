@@ -17,10 +17,10 @@ should have a name
 ### The Menu:
 should be hidden by default
 <br>
-should change visibility when clicked.
+should change visibility when clicked
 
 ### Initial Feeds:
-should have at least 1 entry in the feed container.
+should have at least 1 entry in the feed container
 
-**New Feed Selection:**
-should change content when loadFeed is called.
+###New Feed Selection:
+should change content when loadFeed is called
