@@ -8,16 +8,16 @@ To run the application you can navigate in your browser to http://diondlewis.git
 The following tests should pass after successfully running the application.
 
 ### RSS Feeds:
-1. are defined
-2. should have a url
-3. should have a name
+are defined
+should have a url
+should have a name
 
 ### The Menu:**
-4. should be hidden by default
-5. should change visibility when clicked.
+should be hidden by default
+should change visibility when clicked.
 
 ### Initial Feeds:
-6. should have at least 1 entry in the feed container.
+should have at least 1 entry in the feed container.
 
 **New Feed Selection:**
-7. should change content when loadFeed is called.
+should change content when loadFeed is called.
