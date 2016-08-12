@@ -9,11 +9,14 @@ The following tests should pass after successfully running the application.
 
 **RSS Feeds:**
 1. are defined
+2. <br>
 2. should have a url
+3. <br>
 3. should have a name
 
 **The Menu:**
 4. should be hidden by default
+5. <br>
 5. should change visibility when clicked.
 
 **Initial Feeds:**
