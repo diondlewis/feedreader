@@ -14,7 +14,7 @@ should have a url
 <br>
 should have a name
 
-### The Menu:**
+### The Menu:
 should be hidden by default
 <br>
 should change visibility when clicked.
